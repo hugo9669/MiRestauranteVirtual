@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Mi Restaurante</string>
+
+
+    <string name="title_activity_sede">SedeActivity</string>
+    <string name="title_activity_menú">CartaActivity</string>
+    <string name="title_activity_reserva">ReservaActivity</string>
+
+
+    <string name="titulo">Carta Virtual</string>
+
+
+    <string name="sedes">¡Encuentranos ya!</string>
+    <string name="menú">Conoce nuestro menú gastronomico</string>
+    <string name="reservas">Contactanos para realizar tu reserva</string>
+
+    <!--Información Productos-->
+    <string-array name="entradas">
+        <item></item>
+        <item>Patacones con suero</item>
+        <item>4 Patacones freidos con sal y suero a su gusto. Precio: 10.000</item>
+        <item>Papas a la francesa</item>
+        <item>Papas a la francesa con sal y distintas salsas. Precio: 15.000</item>
+        <item>Jamón Iberico</item>
+        <item>Varios trozos de jamón iberico, asados a su gusto. Precio: 20.000</item>
+
+    </string-array>
+
+    <string-array name="Platos">
+        <item></item>
+        <item>Carnes</item>
+        <item>Diferentes tipos de carnes a tu gusto. Precio: Desde 25.000 hasta 50.000</item>
+        <item>Bandeja Paisa</item>
+        <item>Bandeja paisa con chicharron, arroz, frijoles, huevo, aguate y mas. Precio: 30.000</item>
+        <item>Filete de pescado</item>
+        <item>Filete de pescado apanado o no (dependiendo del gusto). Precio: 26.000</item>
+
+    </string-array>
+
+    <string-array name="Bebidas">
+        <item></item>
+        <item>Micheladas</item>
+        <item>Micheladas de diferentes sabores. Precio: 10.000</item>
+        <item>Gaseosas</item>
+        <item>Gaseosas personales de diferentes sabores. Precio: 7.000</item>
+        <item>Cocteles</item>
+        <item>Cocteles de distintos sabores. Precio: Desde: 20.000 hasta 50.000</item>
+
+    </string-array>
+
+    <string-array name="Postres">
+        <item></item>
+        <item>Postre de tres leches</item>
+        <item>Precio: 15.000</item>
+        <item>Helados</item>
+        <item>Helados de diferentes sabores y en distintas presentaciones. Precio: Desde 5.000 hasta 20.000</item>
+        <item>Gelatinas</item>
+        <item>Gelatinas de diferentes sabores. Precio: Desde 10.000 hasta 20.000</item>
+
+    </string-array>
+
+    <string-array name="Licores">
+        <item></item>
+        <item>Aguardiente</item>
+        <item>Aguardiente de 1l en diferentes presentaciones. Precio: 80.000</item>
+        <item>Cervezas</item>
+        <item>Cervezas colombianas. Precio: Desde 7.000 hasta 10.000 C/U</item>
+        <item>Ron caldas</item>
+        <item>Botella de ron caldas de 500 ml. Precio: 80.000</item>
+
+    </string-array>
+
+</resources>
